@@ -9,6 +9,7 @@
 <img src="https://cdn.discordapp.com/attachments/393025698907947009/1219253860032450570/image.png?ex=660aa1a4&is=65f82ca4&hm=f10b1992651022e4b976fe1fbe6feeb2487b3753fa4c27770c396721af6a3280&" alt="drawing" width="600"/>
 
 ## 기술 스택
+- Java 21
 - Spring Cloud Gateway
 - Spring Cloud eureka client
 - Spring Cloud config
